@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.737,D:\Первачи\Delphi\2sem\lab3\lab3.dproj=D:\Первачи\Delphi\1sem\lab5\lab5.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,D:\Первачи\Delphi\Project2.dproj=D:\Первачи\Delphi\lab3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,D:\Первачи\Delphi\lab3\lab3_2.dproj=D:\Первачи\Delphi\lab3\lab3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,D:\Первачи\Delphi\lab5\lab5.dproj=D:\Первачи\Delphi\lab5\lab5_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,D:\Первачи\Delphi\lab5\lab5.dproj=D:\Первачи\Delphi\lab3\lab3_2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,D:\Первачи\Delphi\lab5\lab5_1.dproj=D:\Первачи\Delphi\lab5\lab5.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
